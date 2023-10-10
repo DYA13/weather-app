@@ -10,6 +10,9 @@
   padding-left: 10px;
   padding-right: 40px;
 }
+.search::-webkit-search-cancel-button {
+  display: none;
+}
 .btn {
   position: absolute;
   right: 5px;
